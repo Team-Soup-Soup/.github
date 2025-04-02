@@ -35,8 +35,8 @@
         <td><img src="https://avatars.githubusercontent.com/u/128016678?v=4" width="120px"/></td>
       </tr>
         <tr>
-        <td align="center">이윤종</td>
-        <td align="center">이경도</td>
+        <td align="center"><a src="">이윤종</a></td>
+        <td align="center"><a src="https://github.com/lkd9125">이경도</a></td>
         <td align="center">김정은</td>
         <td align="center">한유진</td>
       </tr>
